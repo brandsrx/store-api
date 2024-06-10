@@ -5,3 +5,4 @@ Flask-JWT-Extended
 flask-swagger-ui
 pytest
 pytest-flask
+gunicorn
